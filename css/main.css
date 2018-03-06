@@ -102,12 +102,21 @@
 .logo-animation {
   width: 256px;
   height: 256px;
+  border: 2px solid black;
+  border-radius: 10px;
   background: url("../img/icon-s7df7226f6d.png") left center;
-  animation: play 5s steps(24) infinite;
+  animation: play 7.5s steps(24) infinite;
 }
 
 @keyframes play {
   100% {
     background-position: -6144px;
   }
+}
+body {
+  margin-left: 25%;
+}
+
+main {
+  margin-left: 10%;
 }
