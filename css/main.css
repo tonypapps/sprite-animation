@@ -1,0 +1,113 @@
+.icon-sprite, .icon-logo01, .icon-logo02, .icon-logo03, .icon-logo04, .icon-logo05, .icon-logo06, .icon-logo07, .icon-logo08, .icon-logo09, .icon-logo10, .icon-logo11, .icon-logo12, .icon-logo13, .icon-logo14, .icon-logo15, .icon-logo16, .icon-logo17, .icon-logo18, .icon-logo19, .icon-logo20, .icon-logo21, .icon-logo22, .icon-logo23, .icon-logo24 {
+  background-image: url('../img/icon-s7df7226f6d.png');
+  background-repeat: no-repeat;
+}
+
+.icon-logo01 {
+  background-position: 0 0;
+}
+
+.icon-logo02 {
+  background-position: -256px 0;
+}
+
+.icon-logo03 {
+  background-position: -512px 0;
+}
+
+.icon-logo04 {
+  background-position: -768px 0;
+}
+
+.icon-logo05 {
+  background-position: -1024px 0;
+}
+
+.icon-logo06 {
+  background-position: -1280px 0;
+}
+
+.icon-logo07 {
+  background-position: -1536px 0;
+}
+
+.icon-logo08 {
+  background-position: -1792px 0;
+}
+
+.icon-logo09 {
+  background-position: -2048px 0;
+}
+
+.icon-logo10 {
+  background-position: -2304px 0;
+}
+
+.icon-logo11 {
+  background-position: -2560px 0;
+}
+
+.icon-logo12 {
+  background-position: -2816px 0;
+}
+
+.icon-logo13 {
+  background-position: -3072px 0;
+}
+
+.icon-logo14 {
+  background-position: -3328px 0;
+}
+
+.icon-logo15 {
+  background-position: -3584px 0;
+}
+
+.icon-logo16 {
+  background-position: -3840px 0;
+}
+
+.icon-logo17 {
+  background-position: -4096px 0;
+}
+
+.icon-logo18 {
+  background-position: -4352px 0;
+}
+
+.icon-logo19 {
+  background-position: -4608px 0;
+}
+
+.icon-logo20 {
+  background-position: -4864px 0;
+}
+
+.icon-logo21 {
+  background-position: -5120px 0;
+}
+
+.icon-logo22 {
+  background-position: -5376px 0;
+}
+
+.icon-logo23 {
+  background-position: -5632px 0;
+}
+
+.icon-logo24 {
+  background-position: -5888px 0;
+}
+
+.logo-animation {
+  width: 256px;
+  height: 256px;
+  background: url("../img/icon-s7df7226f6d.png") left center;
+  animation: play 5s steps(24) infinite;
+}
+
+@keyframes play {
+  100% {
+    background-position: -6144px;
+  }
+}
